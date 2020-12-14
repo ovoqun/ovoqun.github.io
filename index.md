@@ -1,37 +1,99 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>o酱的后宫群</title>
+<meta NAME="keywords" CONTENT="空格">
+<meta NAME="description" CONTENT="ovoqun">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="author" content="ovoqun" />
+</script>
+<style>
+html {
+    height: 100%;
+}
+body{
+    background-image: url("https://tva1.sinaimg.cn/large/0084NPFugy1glnmz2zbk5j321o1xsb2a.jpg");
+    background-position: center;
+    background-size: cover;
+}
 
-You can use the [editor on GitHub](https://github.com/ovoqun/ovoqun.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+.container {
+	margin: auto;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+	line-height: 1.4;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%
+}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+.card {
+	background: #fff;
+	background-size: contain;
+	border-radius: 10px;
+	box-shadow: 0 10px 30px -5px rgba(60,60,60,0.2);
+	text-align: center;
+	padding: 30px 60px
+}
 
-### Markdown
+.card img {
+	background-color: #dddfe6;
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	margin: auto auto 15px;
+	display: block
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+.card h1 {
+	font-size: 22px;
+	margin: 10px auto 0;
+	letter-spacing: 1px
+}
 
-```markdown
-Syntax highlighted code block
+.card h2 {
+	margin: auto;
+	color: #646464;
+	font-weight: 300;
+	font-size: 14px
+}
 
-# Header 1
-## Header 2
-### Header 3
+.card .button {
+	display: block;
+	text-decoration: none;
+	background: #3b70fc;
+	color: #f9f9f9;
+	padding: 12px;
+	border: 0;
+	border-radius: 25px;
+	margin-top: 30px;
+	font-size: 16px;
+	font-weight: 700;
+	min-width: 200px;
+	transition: .2s
+}
 
-- Bulleted
-- List
+.card .button span {
+	font-size: 20px;
+	line-height: 1;
+	vertical-align: top
+}
 
-1. Numbered
-2. List
+.card .button:hover {
+	background: #1856fb
+}
 
-**Bold** and _Italic_ and `Code` text
+  </style>
+</head>
+<body>
+<div class="container">
+<div class="card">
+<img src="https://tva1.sinaimg.cn/large/0084NPFugy1glnmwkn4r4j30zm0s51kx.jpg" alt="o酱的后宫群" />
+<h1>o酱的后宫群</h1>
+<a class="button" href="https://jq.qq.com/?_wv=1027&k=OxWb4JD3" target="_blank">点击访问</a>
+</div>
+</div>
+</body>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ovoqun/ovoqun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</script>
